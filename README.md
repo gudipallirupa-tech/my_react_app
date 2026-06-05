@@ -3,8 +3,7 @@
 React + Vite use chesi build chesina Netflix UI Clone project.
 
 ## 🚀 Live Demo
-**[Click chesi chudu → https://my-react-app-xxx.vercel.app](https://my-react-app-xxx.vercel.app)**
-
+**[Click chesi chudu →https://netflixclone-eight-zeta.vercel.app/
 > Nee Vercel link tho idi replace cheyyi
 
 ## ✨ Features
